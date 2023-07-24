@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "node server.js"
   },
-  "author": "Emmanuel Henri",
+  "author": "Alok Srivastava",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
